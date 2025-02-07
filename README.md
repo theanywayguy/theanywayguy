@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="![Image](https://github.com/user-attachments/assets/0b563dcf-b28e-4428-b6c0-70868c61c373)" alt="GitHub Banner" width="1000">
+</p>
+
 # 👋 Hello, I'm Ahmad!
 
 ## 🧑‍💻 About Me
